@@ -1,0 +1,6 @@
+{
+  "name": "PatchGuard - Adversarial Patch Defense Platform",
+  "description": "Educational AI security platform demonstrating vulnerabilities of object detection to physical adversarial stickers and robust defense pipelines.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
